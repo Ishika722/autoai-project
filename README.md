@@ -9,30 +9,7 @@ Automated feature engineering and model selection (generating multiple candidate
 Hyperparameter optimization, ensembling, and optional incremental learning
 
 Code generation of high‑fidelity Python notebooks, encapsulating both the full experiment and individual pipeline logic for reproducibility and auditability 
-ingeh.medium.com
-+14
-dev.to
-+14
-felixaugenstein.com
-+14
-felixaugenstein.com
-+12
-github.com
-+12
-medium.com
-+12
-github.com
-+6
-ibm-cp4d.awsworkshop.io
-+6
-medium.com
-+6
-reddit.com
-+3
-medium.com
-+3
-reddit.com
-+3
+
 
 Once a winning pipeline is selected, the system can promote it directly to a RESTful model deployment using IBM Watson Machine Learning APIs. It supports both online (web-service) and batch scoring scenarios 
 ibm.github.io

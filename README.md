@@ -24,7 +24,7 @@ Model evaluation & deployment	Choose a pipeline, save as model, and deploy to IB
 Python SDK & scoring client	Auto‑generated Python code provides end‑to‑end API calls: training, deployment, scoring, batch processing, and logging—all optimized for integration into workflows or apps.
 
 ✅ How to use
-Upload your dataset to a Watson Studio or Cloud Pak for Data project (or connect via network volume or COS).
+Upload your dataset to a Watson Studio or Cloud Pak for Data project 
 
 Launch an AutoAI experiment—select target column, data type, resource configuration.
 
@@ -45,6 +45,6 @@ With this repository at the heart of your project, you can empower domain expert
 
 
 
-Sources
 
-Ask ChatGPT
+
+
